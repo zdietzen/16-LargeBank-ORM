@@ -1,0 +1,10 @@
+C:\Dev\Github\16-LargeBank-ORM\16-LargeBank-ORM\bin\Debug\16-LargeBank-ORM.exe.config
+C:\Dev\Github\16-LargeBank-ORM\16-LargeBank-ORM\bin\Debug\16-LargeBank-ORM.exe
+C:\Dev\Github\16-LargeBank-ORM\16-LargeBank-ORM\bin\Debug\16-LargeBank-ORM.pdb
+C:\Dev\Github\16-LargeBank-ORM\16-LargeBank-ORM\bin\Debug\EntityFramework.dll
+C:\Dev\Github\16-LargeBank-ORM\16-LargeBank-ORM\bin\Debug\EntityFramework.SqlServer.dll
+C:\Dev\Github\16-LargeBank-ORM\16-LargeBank-ORM\bin\Debug\EntityFramework.xml
+C:\Dev\Github\16-LargeBank-ORM\16-LargeBank-ORM\bin\Debug\EntityFramework.SqlServer.xml
+C:\Dev\Github\16-LargeBank-ORM\16-LargeBank-ORM\obj\Debug\16-LargeBank-ORM.csprojResolveAssemblyReference.cache
+C:\Dev\Github\16-LargeBank-ORM\16-LargeBank-ORM\obj\Debug\16-LargeBank-ORM.exe
+C:\Dev\Github\16-LargeBank-ORM\16-LargeBank-ORM\obj\Debug\16-LargeBank-ORM.pdb
